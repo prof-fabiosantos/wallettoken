@@ -2,9 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Instalação de Depedências
 
-In the project directory, you can run:
+Para instalar todas as depedências do projeto, digite:
+
+### `npm install`
+
+## Executar a carteira
+
+Para executar a carteira abrar um terminal a partir do diretório principal do projeto da carteira e digite:
 
 ### `npm start`
 
